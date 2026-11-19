@@ -63,7 +63,7 @@ roadmap_backend_node/
 
 | #  | Project                | Source | Main skills                          | Status |
 |----|------------------------|--------|--------------------------------------|--------|
-| 01 | Folder Info            | Node   | `fs`, `path`, directory traversal    | ⬜     |
+| 01 | [Folder Info](https://roadmap.sh/projects/nodejs-folder-info) | Node   | `fs`, `path`, directory traversal    | ⬜     |
 | 02 | File Counter           | Node   | Reading files, streams, string work  | ⬜     |
 | 03 | GitHub Profile Details | Node   | `fetch`, external APIs               | ⬜     |
 | 04 | JSON Formatter         | Node   | JSON parsing, error handling         | ⬜     |
