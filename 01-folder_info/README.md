@@ -6,6 +6,8 @@ Part of my [roadmap.sh Node.js projects](https://roadmap.sh/nodejs/projects) ser
 
 ## Requirements
 
+Project spec: [roadmap.sh/projects/nodejs-folder-info](https://roadmap.sh/projects/nodejs-folder-info)
+
 - Accept an optional folder path as a command-line argument.
 - Fall back to the current working directory when no path is given.
 - Print the folder's name, absolute path, number of files and number of subfolders.
@@ -88,3 +90,7 @@ error: could not read folder: nope
 - **What was the hardest part?** _TODO_
 - **What would break first under real use?** _TODO_
 - **What would I change if I rebuilt it?** _TODO_
+
+## Acknowledgements
+
+Thanks to [roadmap.sh](https://roadmap.sh) for the [Folder Info project idea](https://roadmap.sh/projects/nodejs-folder-info).
